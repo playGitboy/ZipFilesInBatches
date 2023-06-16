@@ -1,4 +1,4 @@
-## ZipFilsInBatches
+## ZipFilesInBatches
 CMD/BAT批处理，自动分批压缩指定目录中所有文件（独立压缩可单独解压，非分卷压缩）   
 比如自动将指定目录中每15个文件压缩为1个zip以此类推（用于自动绕过某些系统导入zip的限制和BUG等）   
 > 支持递归处理子目录  
